@@ -1,1 +1,1 @@
-# local-auth
+# mock local authentication server
